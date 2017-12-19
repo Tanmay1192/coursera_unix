@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Coursera Peer Assignment (Unix Workbench)
 
-You can use the [editor on GitHub](https://github.com/Tanmay1192/coursera_unix/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+  I'm Tanmay Prakash software developer from Noida, India. Unix is an operating system and a set of tools that powers the Internet,our personal computers, and even our phones. This course is designed for anyone to start using Unix tools even if you've no prior programming experience. This week, we'll go over how to get access to
+Unix and how to start using the command line.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Description
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tanmay1192/coursera_unix/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This repository contains three  files:
+- [README.md](https://github.com/Tanmay1192/coursera_unix)
+- [Makefile](https://github.com/Tanmay1192/coursera_unix)
+- Bash script : [guessinggame.sh](https://github.com/Tanmay1192/coursera_unix)
